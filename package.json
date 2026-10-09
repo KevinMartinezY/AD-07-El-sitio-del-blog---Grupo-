@@ -1,0 +1,21 @@
+{
+  "name": "ad-07-el-sitio-del-blog---grupo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinMartinezY/AD-07-El-sitio-del-blog---Grupo-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KevinMartinezY/AD-07-El-sitio-del-blog---Grupo-/issues"
+  },
+  "homepage": "https://github.com/KevinMartinezY/AD-07-El-sitio-del-blog---Grupo-#readme"
+}

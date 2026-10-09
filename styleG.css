@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: azure;
+}
+
+.random {
+    padding: 5px 5px;
+    font-family: Verdana;
+}
+
+.random:hover {
+    color:blueviolet;
+}
+
+.img {
+    width: 100;
+    height: 100;
+}
